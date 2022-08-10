@@ -4,7 +4,8 @@ module.exports = [
   {
     title: "投资理财",
     children: [
-      ["/investment/rich-dad/", "富爸爸"]
+      ["/investment/rich-dad/", "富爸爸穷爸爸"],
+      ["/investment/xiaoxing-cwsw/", "肖星的财务思维课"]
     ],
   },
 ];
